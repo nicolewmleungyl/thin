@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
