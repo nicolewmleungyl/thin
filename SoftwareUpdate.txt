@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Compress docs images (#8124)
