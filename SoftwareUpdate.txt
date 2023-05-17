@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
