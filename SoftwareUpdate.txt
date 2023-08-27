@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
