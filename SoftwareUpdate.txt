@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
