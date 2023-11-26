@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
