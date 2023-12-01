@@ -1,1 +1,1 @@
-ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
