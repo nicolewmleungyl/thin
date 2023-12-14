@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
