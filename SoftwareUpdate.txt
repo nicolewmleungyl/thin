@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add dota8.yaml and O tests (#7394)
