@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix OBB xywh-angle concatenation bug (#7404)
